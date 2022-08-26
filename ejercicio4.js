@@ -75,7 +75,7 @@ console.log("");
 console.log("Ejercicio 5 switch")
 console.log("")
 
-estacion="german";
+estacion="Verano";
 
 switch (estacion) {
     case "Verano": 
